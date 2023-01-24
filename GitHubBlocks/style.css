@@ -1,0 +1,44 @@
+h1{
+    display: flex;
+    justify-content: space-around;
+    color: rebeccapurple;
+}
+.evenly{
+    /* display: block; */
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.around{
+    /* display: block; */
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: space-around;
+}
+
+.space{
+    /* display: block; */
+    background-color: #403c3c;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#text{
+    /* float: ; */
+    display: flex;
+    justify-content: space-around;
+}
+.blue, .pink, .white{
+    width: 260px;
+
+}
+.pink{
+    /* width: auto; */
+
+}
+.white{
+    /* width: auto; */
+
+}
