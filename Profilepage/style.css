@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: cursive;
 }
 .top {
     background-color: black;
@@ -143,6 +144,9 @@
     align-items: center;
     padding-left: 5px;
 
+}
+.names{
+    display: flex;
 }
 
 .top3 {

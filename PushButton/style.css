@@ -1,0 +1,85 @@
+*{
+    font-family: cursive;
+}
+.topnav{
+    background-color: rgb(100, 100, 100);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 693px;
+    margin-left: 261px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 60px;
+}
+.search{
+    width: 350px;
+    height: 20px;
+    border: 3px solid black;
+
+
+}
+#btn{
+    width: 48px;
+    height: 22px;
+    background-color: #0c7db1;
+    color: white;
+    box-shadow: 2px 2px black;
+    padding: 0 5px;
+    
+}
+.displayflex{
+    display: flex;
+    justify-content: center;
+}
+.ninja{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-left: 10px;
+    width: 436px;
+    margin-left: 33px;
+    /* padding: 10px; */
+}
+.dojo{
+    border: 1px solid black;
+    height: 180px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.next{
+    display: flex;
+    /* margin-right: 10px; */
+    justify-content: space-around;
+    align-items: center;
+}
+#ninja{
+    /* display: flex; */
+    /* justify-content: center; */
+    border: 1px solid black;
+    width: 436px;
+    margin-top: 20px;
+    margin-left: 260px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* padding: 10px; */
+    
+    /* justify-content: center; */
+}
+span{
+    text-decoration: underline;
+    color: blue;
+}
+.yellow{
+    border: 1px solid black;
+    box-shadow: 3px 2px;
+    background-color: rgb(236, 182, 32);
+}
+.green{
+    background-color: #81c981;
+    box-shadow: 2px 3px;
+    width: 200px;
+    padding: 5px 5px ;
+}
