@@ -5,3 +5,7 @@ function Logout(element){
 function hide(element){
     element.remove();
 }
+
+{
+    
+}
